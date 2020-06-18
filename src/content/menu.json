@@ -1,0 +1,113 @@
+{
+    "mainnav":[
+        {
+            "text":"Overview",
+            "link":"#",
+            "submenu":[
+                {
+                    "text":"How it works",
+                    "link":"#",
+                    "subnav":[
+                        {
+                            "text":"Make a contribution",
+                            "link":"#",
+                            "childnav":[
+                                {
+                                    "text":"How to contribute",
+                                    "link":"#"
+                                },
+                                {
+                                    "text":"Complex Assets",
+                                    "link":"#"
+                                },
+                                {
+                                    "text":"Deferred Giving",
+                                    "link":"#"
+                                }
+                            ]
+                        },
+                        {
+                            "text":"Recommend a grant",
+                            "link":"#",
+                            "childnav":[
+                                {
+                                    "text":"Due Diligence",
+                                    "link":"#"
+                                }
+                            ]
+                        },
+                        {
+                            "text":"Legacy Planning",
+                            "link":"#"
+                        }
+                    ]
+                },
+                {
+                    "text":"Fees & Minimums",
+                    "link":"#"
+                },
+                {
+                    "text":"Premier Services",
+                    "link":"#"
+                },
+                {
+                    "text":"Living our mission",
+                    "link":"#"
+                }
+            ]
+        },
+        {
+            "text":"Investments",
+            "link":"#",
+            "submenu":[
+                {
+                    "text":"Overview",
+                    "link":"#"
+                },
+                {
+                    "text":"Portfolio Solutions",
+                    "link":"#"
+                },
+                {
+                    "text":"Portfolio Builders",
+                    "link":"#"
+                },
+                {
+                    "text":"Values-driven Investments",
+                    "link":"#"
+                },
+                {
+                    "text":"Compare Investments",
+                    "link":"#"
+                },
+                {
+                    "text":"All investment options",
+                    "link":"#"
+                },
+                {
+                    "text":"TIFF Multi-Asset Fund",
+                    "link":"#"
+                },
+                {
+                    "text":"Investment Performance",
+                    "link":"#"
+                }
+                
+            ]
+        },
+        {
+            "text":"Resources",
+            "link":"#",
+            "submenu":[
+                {
+                    "text":"See all resources",
+                    "link":"#"
+                },
+                {
+                    "text":"Cost Calculator",
+                    "link":"#"
+                }
+            ]
+        }
+    ]
+}
