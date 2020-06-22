@@ -32,20 +32,10 @@ const ContactUsHeader = () =>{
         <div className="header-container">
             <div className="container-max-width">
                 <div className="bg-wrapper">
-                    {/* <ul>
-                        {JSONData.breadcrumb.map((data,index) => {
-                            if(data.link !== ""){
-                                return (
-                                    <li key={index}>
-                                    <a href={data.link}>{data.content}</a>
-                                    </li>
-                                )
-                            }
-                            else{
-                            return <li key={data}>{data.content}</li>
-                                }
-                        })}
-                    </ul> */}
+                    <ul>
+                       <li><a href="\">Home</a></li>
+                       <li>Contact us</li>
+                    </ul>
                     <h1>{data.nodeBanner.field_title}</h1>
                     <p dangerouslySetInnerHTML={{ __html: data.nodeBanner.body.value}}/>
                 </div>
